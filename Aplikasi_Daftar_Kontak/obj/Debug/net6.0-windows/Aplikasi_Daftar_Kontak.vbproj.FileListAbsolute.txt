@@ -1,0 +1,16 @@
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\bin\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.exe
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\bin\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.deps.json
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\bin\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.runtimeconfig.json
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\bin\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.dll
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\bin\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.pdb
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.Form1.resources
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.AssemblyInfo.vb
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.dll
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\refint\Aplikasi_Daftar_Kontak.dll
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.pdb
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\Aplikasi_Daftar_Kontak.genruntimeconfig.cache
+D:\Kuliah\Semester 1\Pemrograman Visual\UAS\Aplikasi_Daftar_Kontak\Aplikasi_Daftar_Kontak\obj\Debug\net6.0-windows\ref\Aplikasi_Daftar_Kontak.dll

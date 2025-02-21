@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aplikasi_Daftar_Kontak/1.0.0": {
+        "runtime": {
+          "Aplikasi_Daftar_Kontak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikasi_Daftar_Kontak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
